@@ -16,7 +16,7 @@ int main()
 	cout << "a = ";
 	cin >> a;
 
-	z1 = (sin(4 * a) / (1 + cos(4 * a))) * (cos(2 * a) / (1 + cos(2 * a)));// ho
+	z1 = (sin(4 * a) / (1 + cos(4 * a))) * (cos(2 * a) / (1 + cos(2 * a)));
 	z2 = cos((3.0 / 2) * Pi - a) / sin((3.0 / 2) * Pi - a);
 	
 	cout << endl;
